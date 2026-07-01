@@ -189,6 +189,3 @@ To remove the solution completely:
 Contributions are welcome! Please feel free to submit a Pull Request.
 Acknowledgments
 
-    AWS Systems Manager team for the AWS-RunPatchBaseline document
-    AWS Step Functions team for the serverless orchestration capabilities
-
